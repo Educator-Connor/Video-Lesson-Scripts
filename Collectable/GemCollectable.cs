@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class DestroyOnPlayerContact : MonoBehaviour
+public class GemCollectable : MonoBehaviour
 {
     public GameObject collectVFXPrefab; // Assign your VFX animation prefab here
 
@@ -19,3 +19,4 @@ public class DestroyOnPlayerContact : MonoBehaviour
         }
     }
 }
+
