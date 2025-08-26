@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class HealthHeartsUI : MonoBehaviour
+public class HealthUI : MonoBehaviour
 {
     public GameObject[] hearts; // Each heart is a GameObject (not just Image)
 
@@ -15,3 +15,4 @@ public class HealthHeartsUI : MonoBehaviour
     }
 
 }
+
