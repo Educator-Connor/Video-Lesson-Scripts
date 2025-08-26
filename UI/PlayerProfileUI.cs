@@ -2,7 +2,7 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ProfileStatsUI : MonoBehaviour
+public class ProfileProfileUI : MonoBehaviour
 {
     public GameObject panelRoot;
 
@@ -82,3 +82,4 @@ public class ProfileStatsUI : MonoBehaviour
         return string.Format("{0:D2}:{1:D2}:{2:D2}", hours, minutes, secs);
     }
 }
+
