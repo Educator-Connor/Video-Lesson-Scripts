@@ -20,7 +20,7 @@ public class EnemyAttackZone : MonoBehaviour
         // 3. Positional check
         if (playerY > enemyY + 0.2f)
         {
-            return; // Player is above — assume stomping
+            return; // Player is above â€” assume stomping
         }
 
      
